@@ -41,7 +41,7 @@ items:
       jenkinsPipelineStrategy:
         env:
         - name: GUID
-          value: ${GUID}
+          value: "1308"
         - name: REPO
           value: ${REPO}
         - name: CLUSTER
